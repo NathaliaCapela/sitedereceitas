@@ -1,4 +1,4 @@
-# Um clone no site de Receitas Tudo Gostoso🍮
+# Um clone do site de Receitas Tudo Gostoso🍮
 
 ![Topo](https://user-images.githubusercontent.com/122760805/216687113-2f9c6fbb-e610-408b-b2cf-8833f0fa12db.png)
 
